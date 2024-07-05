@@ -1,4 +1,5 @@
 Weather Forecast App
+
 A simple weather forecasting application that allows users to search for a city and view its current weather conditions. The app fetches weather data from a weather API and renders it on the screen.
 
 Features
