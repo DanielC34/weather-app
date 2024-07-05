@@ -12,6 +12,8 @@ A simple weather forecasting application that allows users to search for a city 
 - Weather Data: Displays temperature, humidity, wind speed, and other relevant weather information.
 - Responsive Design: Works well on desktop and mobile devices.
 
+![image](https://github.com/DanielC34/weather-app/assets/125518197/2626d3b3-6fbf-49b8-a55f-cc478f8b1f83)
+
 
 ## Technologies Used
 - HTML
