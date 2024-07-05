@@ -23,7 +23,7 @@ Weather API: Integrates with OpenWeatherAPI to fetch current weather data.
 ## Installation
 - Run this project locally, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/weather-app.git
+- Clone the repository: git clone https://github.com/DanielC34/weather-app
 - Open index.html in your browser or use Live Server visual studio code extension.
 ## Usage
 - Enter the name of a city in the search input.
